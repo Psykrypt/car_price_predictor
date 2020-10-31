@@ -1,2 +1,2 @@
-# car_priice_predictor
+# car_price_predictor
 prediction of car price
